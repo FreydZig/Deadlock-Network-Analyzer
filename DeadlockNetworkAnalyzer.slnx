@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DeadlockNetworkAnalyzer.App/DeadlockNetworkAnalyzer.App.csproj" />
+  <Project Path="DeadlockNetworkAnalyzer.Core/DeadlockNetworkAnalyzer.Core.csproj" />
+  <Project Path="DeadlockNetworkAnalyzer.Tests/DeadlockNetworkAnalyzer.Tests.csproj" />
+</Solution>
